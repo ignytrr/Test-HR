@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-09 22:47:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>13c3daac0fa44300437109ece1050e68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_18138_testhr_test_hr.x_18138_testhr.user</sys_name>
+        <sys_package display_value="TestHR" source="x_18138_testhr">dfe982a00f244300437109ece1050e37</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TestHR">dfe982a00f244300437109ece1050e37</sys_scope>
+        <sys_security_acl display_value="x_18138_testhr_test_hr">57c3daac0fa44300437109ece1050e65</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_13c3daac0fa44300437109ece1050e68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-09 22:47:58</sys_updated_on>
+        <sys_user_role display_value="x_18138_testhr.user" name="x_18138_testhr.user">1fe942680fa44300437109ece1050e94</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

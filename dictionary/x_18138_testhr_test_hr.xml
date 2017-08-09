@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sn_hr_core_case" label="Test-HR" max_length="40" name="x_18138_testhr_test_hr" type="collection"/>
+</database>
